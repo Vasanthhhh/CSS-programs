@@ -1,0 +1,55 @@
+
+h1{
+    /* background-color: aqua;
+    width: 280px; */
+    /* border-style: groove;
+    border-color: blue;
+    border-width: 30px; */
+    /* border: 10px groove blueviolet; */
+    /* border-top: 40px solid red;
+    border-bottom: 40px solid black;
+    border-right: 40px solid greenyellow;
+    border-left: 40px solid blue; */
+    /* outline-style: groove;
+    outline-width: 3px;
+    outline-color: black; */
+
+    /* outline: 10px groove red;
+    outline-offset: 10px; */
+    /* padding: 40px; */
+    /* padding-left: 30PX;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px; */
+    /* padding: 40px 30px 20px 10px ; */
+/* padding: 20px 40px;
+margin: 100px 20px 30px 40px; */
+/* margin: 10px 20px rgb(236, 5, 5); */
+/* margin-top: 2px;
+margin-bottom: 3px;
+margin-left: 4px;
+margin-left: 5px; */
+
+
+}
+input{
+    border: none;
+    border-bottom: 1px solid rgb(255, 47, 47);
+    border-width: 10px;
+    outline: none;
+}
+img{
+    width: 500px;
+    height: 500px;
+    background-color:red;
+    padding: 100px;
+    box-sizing: border-box;
+    margin: 40px;
+    border: 40px solid blue;
+    border-radius: 80px;
+
+}
+h1{
+    background-color: blue;
+    width: 15px;
+}

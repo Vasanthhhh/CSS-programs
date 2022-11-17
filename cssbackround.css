@@ -1,0 +1,45 @@
+ /* p{color: blue; 
+    
+ background-image: url(./4.jpg);
+ robackground-size: auto 100% 10%;
+background-image: linear-gradient(rgb(218, 72, 72),#661414);
+background-image: linear-gradient(red,yellow,green,black);
+height: 550px;
+background-attachment: scroll;
+
+     width: 10%;
+    height: 20%; 
+} */
+
+    /* background-color: crimson;
+    background-image: url(./3.jpg);
+background-position: center center;
+    background-repeat: no-repeat;
+background-size: 100% 100%;
+height: 200px;
+width: 200px;
+overflow: auto; */
+
+
+/* background-color: red;
+background-image:url(./1.jpg);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed; */
+ 
+    /* color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 1),rgba(0, 0, 0, 1),rgba(0, 0, 0, 1),rgba(0, 0, 0 ,1));
+background-image:linear-gradient(#ff5100,white,green);
+/* background-size: 100% 100%;
+height: 400px;
+width: 400px; */
+/* background-image: radial-gradien (green,white,#ff6600); */
+/* height: 550px;
+background-position: center;
+background-size: 100% 100%;  */
+p{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+}

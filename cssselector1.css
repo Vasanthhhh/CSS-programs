@@ -1,0 +1,77 @@
+
+    /* element selector */
+    /* color: rgb(0, 255, 55);
+    background-color: #f31515;
+    border: 5px groove black;
+    padding: 20px;
+    border-radius: 30px 20px; */
+
+/* group selector */
+
+ /* p,h1,a{   
+color: rgb(0, 255, 55);
+background-color: #f31515;
+border: 5px groove black;
+padding: 20px;
+border-radius: 30px 20px; */
+
+
+/* class selector  */
+/* p.abc{
+    color: rgb(0, 255, 55);
+    background-color: #f31515;
+    border: 5px groove black;
+    padding: 20px;
+    border-radius: 30px 20px;
+} */
+/* generic class selectotr */
+/* .abc{
+    color: rgb(0, 255, 55);
+    background-color: #f31515;
+    border: 5px groove black;
+    padding: 20px;
+    border-radius: 30px 20px; */
+/* } */
+/* id selector */
+ /* #rcb{
+    color: rgb(0, 255, 55);
+    background-color: #f31515;
+    border: 5px groove black;
+    padding: 20px;
+    border-radius: 30px 20px;
+} */
+/* universal selector */
+
+    
+/* p{
+    color: red;
+} */
+/* attribute selector
+ */
+ /* input[name]
+ {
+border: 5px groove red;
+ } */
+ /* attribute value selector */
+ /* input[type=password]
+ {
+     border: 5px groove red;
+ } */
+ /* child selector */
+ /* div p{
+     color: red;
+ } */
+ /* div>p{
+     color: red;
+ } */
+ /* Sibling Selectors */
+/* div~p
+{
+    color: red;
+} */
+
+
+/* div+p
+{
+    color: red;
+} */

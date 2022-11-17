@@ -1,0 +1,63 @@
+input
+{
+    padding: 10px 5px;
+    width: 300px;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+}
+input:focus
+{
+    outline: 2px solid rgb(19, 157, 192);
+
+}
+input::placeholder
+{
+    color:#b4b0b0;
+    font-size: 16px;
+}
+a
+{
+width: 50px;
+text-underline-position: unset;
+}
+
+
+.btn1
+{
+    color: white;
+    font-family: inherit;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    width: 310px;
+
+}
+.btn2
+{
+    color: white;
+    font-family: inherit;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 20px;
+    width: 100px;
+    margin-left: 100px;
+   
+
+}
+.btn2-green
+{
+background-color: #32c732;    
+}
+.btn2-green:hover
+{
+    background-color: rgb(10, 83, 10);
+}
+.btn1-blue
+{
+background-color: #3737ec;
+}
+.btn1-blue:hover
+{
+    background-color: #0e0e44;
+}
+

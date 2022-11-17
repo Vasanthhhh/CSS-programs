@@ -1,0 +1,24 @@
+/* div,h1,label,a
+{
+background-color: RED;
+display: block;
+} */
+
+
+/* div,h1,label,a
+{
+    background-color: RED; 
+    display: inline;
+} */
+
+div
+{
+background-color: hotpink;
+width: 200px;
+height: 200px;
+margin: 10px;
+display: inline-block;
+padding: 50px;
+box-sizing: border-box;
+}
+
